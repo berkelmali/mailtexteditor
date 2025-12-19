@@ -5,12 +5,15 @@
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue?style=flat&logo=typescript)
 ![Gemini AI](https://img.shields.io/badge/AI-Gemini_Flash-8E75B2?style=flat&logo=google)
 
+### 🚀 **Try it Online:** You can use the app directly in your browser without installing:  
+**[https://mailgenerator.onrender.com/](https://mailgenerator.onrender.com/)**
+
 A professional **React Native mobile application** designed to streamline corporate communication. This app leverages **Google's Gemini 2.5 Flash API** to generate context-aware, professional email drafts instantly. It features a modern "Mail App" UI, multi-language support, and seamless clipboard integration.
 
 ## 📸 Preview
 
 <div align="center">
-  <img src="https://via.placeholder.com/300x600?text=App+Preview+Here" alt="App Preview" width="300" />
+   <img width="1905" height="645" alt="image" src="https://github.com/user-attachments/assets/d279d91a-8a70-4f81-997c-3493d547ab53" />
 </div>
 
 *(Designed with a clean, native iOS/Android look and feel)*
